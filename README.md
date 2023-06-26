@@ -26,5 +26,5 @@ import "github.com/hugiot/pinecone/xxx"
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+The **PineCone** is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
