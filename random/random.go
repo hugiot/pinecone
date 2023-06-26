@@ -29,10 +29,12 @@ func number[T integer](min, max T) T {
 	return T(r.Int63n(int64(max)-int64(min)+1) + int64(min))
 }
 
+// Int concurrent security
 func Int(min, max int) int {
 	return number(min, max)
 }
 
+// Int64 concurrent security
 func Int64(min, max int64) int64 {
 	return number(min, max)
 }

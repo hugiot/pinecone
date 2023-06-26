@@ -27,5 +27,6 @@ import (
 func main() {
 	fmt.Println(random.Int(100, 200))
 	fmt.Println(random.Int64(100, 200))
+	fmt.Println(random.String(100))
 }
 ```
