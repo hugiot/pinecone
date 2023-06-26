@@ -8,7 +8,9 @@ A go toolbox
 
 ## Features
 
-- Random: random number generator
+- random: random number generator
+- hmac
+- openssl
 
 ## Installation
 
