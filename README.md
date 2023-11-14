@@ -11,6 +11,7 @@ A go toolbox
 - random: random number generator
 - hmac
 - openssl
+- timer: SetTimeout、SetInterval
 
 ## Installation
 
